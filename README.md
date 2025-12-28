@@ -2,4 +2,52 @@
 Hello befor the start i wanna say its ,,ONLY" drone without fpv headset. pad
 Its for Raw FPV that mean: zero GPS zero beeper.
 
-There its some visua
+There its some visual
+
+<img width="811" height="469" alt="Zrzut ekranu 2025-12-24 000302" src="https://github.com/user-attachments/assets/885fc0a7-1151-4ddc-a928-e2c8cfc3d0a5" />
+
+
+
+
+
+
+
+
+this frame can be print in 2 case style . 
+base:
+
+
+filled v1
+
+
+<img width="1195" height="855" alt="Zrzut ekranu 2025-12-28 013507" src="https://github.com/user-attachments/assets/c30948b2-911d-4da4-9a75-b73bc08c1431" />
+
+<img width="810" height="440" alt="Zrzut ekranu 2025-12-24 075934" src="https://github.com/user-attachments/assets/3f48e273-f072-4a74-8bb4-b0a07caa831b" />
+
+
+with honeycomb hole v2
+
+
+<img width="484" height="413" alt="Zrzut ekranu 2025-12-24 032023" src="https://github.com/user-attachments/assets/7d55d22e-b90a-4b91-b79e-dc9f2aea5bff" />
+
+<img width="959" height="681" alt="Zrzut ekranu 2025-12-28 013608" src="https://github.com/user-attachments/assets/d60ed7d2-3397-4d38-aaa1-00516f471c68" />
+
+
+top:
+
+
+v1
+
+
+<img width="355" height="535" alt="Zrzut ekranu 2025-12-28 022813" src="https://github.com/user-attachments/assets/9525bb37-b334-471e-a2ac-bd312a97c44d" />
+
+<img width="213" height="541" alt="Zrzut ekranu 2025-12-24 075948" src="https://github.com/user-attachments/assets/11e4f1c9-d151-46d1-bd5b-7aba82d166c7" />
+
+
+v2 honeyocmb
+
+
+<img width="525" height="583" alt="Zrzut ekranu 2025-12-28 023443" src="https://github.com/user-attachments/assets/3922d8e9-19d4-459d-9618-3eb61e5acf99" />
+
+<img width="357" height="497" alt="Zrzut ekranu 2025-12-28 023106" src="https://github.com/user-attachments/assets/41f449d6-5f9c-47d3-bb48-f7a64e860cac" />
+
