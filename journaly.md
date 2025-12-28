@@ -1,12 +1,11 @@
 **first 5h**
-I spent the first few hours maybe 3.5 
+I spent thefirst few hours maybe 3.5 
 
 hours trying to decide 
+what kind of drone I wanted to build, a micro quad, a 3.5 inch or a 5 inch, but in the end I chose the  5 inch, which is big enough to carry a GoPro but small enough not to take up much space.
 
-what kind of drone I wanted to build, a micro quad, a 3.5 inch or a 5 inch, but in the end I chose the Nate 5 inch, which is big enough to carry a GoPro but small enough not to take up much space.
 
-
-n**ext 12h** 
+**next 12h** 
 I spent the next 12 hours over two days finding for parts. It was a total pain in the ass because of the huge selection and the fact that I had to stay under a $200 budget. Of course, I had to watch some reviews to make sure I wasn't buying absolute junk, but that took maybe an hour max.
 
 
@@ -34,6 +33,7 @@ after finishing the frame I made a tutorial on how to solder the flight controll
 
 **i writing and ending repo 4h**
          
+
 
 
 
