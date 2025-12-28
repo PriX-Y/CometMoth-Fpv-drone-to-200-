@@ -4,6 +4,9 @@ Its for Raw FPV that mean: zero GPS zero beeper.
 
 There its some visual
 
+<img width="939" height="430" alt="Zrzut ekranu 2025-12-24 041236" src="https://github.com/user-attachments/assets/94479e3d-f883-4a3f-a824-0c3894d60ae4" />
+
+
 <img width="811" height="469" alt="Zrzut ekranu 2025-12-24 000302" src="https://github.com/user-attachments/assets/885fc0a7-1151-4ddc-a928-e2c8cfc3d0a5" />
 
 
