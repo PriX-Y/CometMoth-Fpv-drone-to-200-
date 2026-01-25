@@ -1,6 +1,5 @@
 <img width="1919" height="502" alt="CometMothFPV" src="https://github.com/user-attachments/assets/78d64786-88a8-4a74-88d2-11ee180dbd81" />
-Hello befor the start i wanna say its ,,ONLY" drone without fpv headset. pad
-Its for Raw FPV that mean: zero GPS zero beeper.
+My first FPV/Cinematic Dron
 
 There its some visual
 
@@ -89,6 +88,8 @@ ESC ( voltage controler) and flight controler
 SpeedyBee TX800 5.8GHz have anten so we dont need buy same like SpeedyBee TX800 5.8GHz
 
 Emax RS2205-2300KV Motors its enough strong  to hold go pro so if you wand you can project for go pro holder and give to issue
+
+My GPS modem use SAM-M8Q its so good chip becus dont need antena. is all in one chip they need recistors and capacitors to filtr energy
 
 NOTE:
 to CNHL LiPo Battery 4S 14.8V 1300mAh you need special charger
