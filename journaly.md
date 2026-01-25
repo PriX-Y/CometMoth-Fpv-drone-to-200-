@@ -33,7 +33,7 @@ after finishing the frame I made a tutorial on how to solder the flight controll
 
 **i writing and ending repo 4h**
          
-
+**ehh next 5.2h**
 
 i change my drone concept. it dont have ultra strong engine to fly over 80mph so i change from fpv to cinematic like dji to this we need GPS. Sorry for dont pick cheap gps modem but i dont wanna lossing singal every 5 minuts.
 This Controler have
@@ -51,6 +51,7 @@ it 5.2h take me find good parts. make schemat.footprint and rest of thing
 
 <img width="917" height="542" alt="Zrzut ekranu 2026-01-23 211100" src="https://github.com/user-attachments/assets/73b5e59c-b74e-4d23-9e58-2e0945d75853" />
 <img width="421" height="454" alt="Zrzut ekranu 2026-01-23 214219" src="https://github.com/user-attachments/assets/38b855f9-4b97-47ea-acd6-7c348655b7b5" />
+
 
 
 
