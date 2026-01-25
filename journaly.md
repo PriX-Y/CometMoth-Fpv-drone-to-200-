@@ -35,6 +35,18 @@ after finishing the frame I made a tutorial on how to solder the flight controll
          
 
 
+i change my drone concept. it dont have ultra strong engine to fly over 80mph so i change from fpv to cinematic like dji to this we need GPS. Sorry for dont pick cheap gps modem but i dont wanna lossing singal every 5 minuts.
+This Controler have
+MCU
+Anten panel
+rest of electric in one 15x15mm part i only need add conections and some resiotors , capacitors
+
+in jlpcb i pick PCBA becus its small parts : 805 . and i with my solder iron im not be able to sold this
+it cost around 17$ with coupon
+
+and i need order that mcu from alexpres becuse they dont have it on jlpcb
+
+it 5.2h take me find good parts. make schemat.footprint and rest of thing
 
 
 
