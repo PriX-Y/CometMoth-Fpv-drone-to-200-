@@ -91,5 +91,10 @@ Emax RS2205-2300KV Motors its enough strong  to hold go pro so if you wand you c
 
 My GPS modem use SAM-M8Q its so good chip becus dont need antena. is all in one chip they need recistors and capacitors to filtr energy
 i use kicad libray
+
+
+<img width="922" height="485" alt="Zrzut ekranu 2026-01-25 205303" src="https://github.com/user-attachments/assets/9058e2d1-3a5a-4477-a035-82dd4cea037f" />
+
+
 NOTE:
 to CNHL LiPo Battery 4S 14.8V 1300mAh you need special charger
