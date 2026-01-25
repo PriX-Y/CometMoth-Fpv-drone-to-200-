@@ -49,7 +49,8 @@ and i need order that mcu from alexpres becuse they dont have it on jlpcb
 it 5.2h take me find good parts. make schemat.footprint and rest of thing
 
 
-
+<img width="917" height="542" alt="Zrzut ekranu 2026-01-23 211100" src="https://github.com/user-attachments/assets/73b5e59c-b74e-4d23-9e58-2e0945d75853" />
+<img width="421" height="454" alt="Zrzut ekranu 2026-01-23 214219" src="https://github.com/user-attachments/assets/38b855f9-4b97-47ea-acd6-7c348655b7b5" />
 
 
 
