@@ -1,0 +1,9 @@
+Conections
+
+you need conect this gps
+to
+
+4 -> gnd
+rx ->T1
+tx ->R1
+1 -> 3.3v
