@@ -1,5 +1,5 @@
 <img width="1919" height="502" alt="CometMothFPV" src="https://github.com/user-attachments/assets/78d64786-88a8-4a74-88d2-11ee180dbd81" />
-My first FPV/Cinematic Dron
+My first FPV/Cinematic Dron design
 
 There its some visual
 
