@@ -92,6 +92,13 @@ Emax RS2205-2300KV Motors its enough strong  to hold go pro so if you wand you c
 My GPS modem use SAM-M8Q its so good chip becus dont need antena. is all in one chip they need recistors and capacitors to filtr energy
 i use kicad libray
 
+<img width="917" height="542" alt="Zrzut ekranu 2026-01-23 211100" src="https://github.com/user-attachments/assets/5ea8150d-c85d-4879-acd2-d0165352561a" />
+<img width="421" height="454" alt="Zrzut ekranu 2026-01-23 214219" src="https://github.com/user-attachments/assets/d107cde8-9b24-4569-842d-8a5fa6f88237" />
+<img width="1063" height="737" alt="Zrzut ekranu 2026-01-23 214533" src="https://github.com/user-attachments/assets/418acf0d-243b-4835-8c74-e3cec5d8b362" />
+to this 3d model i give this connections only for hole
+
+
+
 
 <img width="922" height="485" alt="Zrzut ekranu 2026-01-25 205303" src="https://github.com/user-attachments/assets/9058e2d1-3a5a-4477-a035-82dd4cea037f" />
 
