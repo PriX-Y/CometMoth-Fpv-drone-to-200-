@@ -89,7 +89,7 @@ SpeedyBee TX800 5.8GHz have anten so we dont need buy same like SpeedyBee TX800 
 
 Emax RS2205-2300KV Motors its enough strong  to hold go pro so if you wand you can project for go pro holder and give to issue
 
-My GPS modem use SAM-M8Q its so good chip becus dont need antena. is all in one chip they need recistors and capacitors to filtr energy
+My GPS modem use SAM-M8Q its so good chip becus dont need antena and its small 15x15mm. is all in one chip they need recistors and capacitors to filtr energy
 i use kicad libray
 
 <img width="917" height="542" alt="Zrzut ekranu 2026-01-23 211100" src="https://github.com/user-attachments/assets/5ea8150d-c85d-4879-acd2-d0165352561a" />
