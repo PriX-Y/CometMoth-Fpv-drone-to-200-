@@ -1,19 +1,19 @@
-**first 5h**
+**first 3.5h**
 I spent thefirst few hours maybe 3.5 
 
 hours trying to decide 
 what kind of drone I wanted to build, a micro quad, a 3.5 inch or a 5 inch, but in the end I chose the  5 inch, which is big enough to carry a GoPro but small enough not to take up much space.
 
 
-**next 5h** 
-I spent the next 5 hours over two days finding for parts. It was a total pain in the ass because of the huge selection and the fact that I had to stay under a $200 budget. Of course, I had to watch some reviews to make sure I wasn't buying absolute junk, but that took maybe an hour max.
+**next 4h** 
+I spent the next 4 hours over two days finding for parts. It was a total pain in the ass because of the huge selection and the fact that I had to stay under a $200 budget. Of course, I had to watch some reviews to make sure I wasn't buying absolute junk, but that took maybe an hour max.
 
 
 <img width="514" height="726" alt="Zrzut ekranu 2025-12-23 095744" src="https://github.com/user-attachments/assets/33c05ad8-c089-46b0-9ed2-2e5d3b7a568c" />
 
-**next 16h**
+**next 10**
 
-After those 5 hours, when I finally had everything ready, I found out on Slack that I had to do something self I didnt have the time  to build a flight controller from scratch, so I decided to design the frame instead. I didnt have time to mess with footprints, especially since I was leaving for the holidays in two days, so I spent another 16 hours designing  frame Seriously, it’s the last time when Im designing a frame aaaaa!
+After those 5 hours, when I finally had everything ready, I found out on Slack that I had to do something self I didnt have the time  to build a flight controller from scratch, so I decided to design the frame instead. I didnt have time to mess with footprints, especially since I was leaving for the holidays in two days, so I spent another 10 hours designing  frame Seriously, it’s the last time when Im designing a frame aaaaa!
 
 update frame made in 12/2025 ( i need pression on jounary so i wanna ct this to  4 parts ) now its 2/2026 i dont remember all
 
@@ -25,8 +25,11 @@ i have photo on pc . pc is in repir
 next 4h (8h)
 i make a conections with this engine idk to frame be more stable its go to 3d print . plastic is weaker then carbon fiber what we use in normal dron so we need  make more structre what hold engine same at that moment i made i start making main frame remember all need be symeetric
 
-next 4h
+next 2h (10h)
 i make i hole all need be symetric and fit good with screw what i use in this dron
+i make this stoper or idk how it name . this tube
+
+i make new verion of this fram with triangle no honeycomb style and version of bottom with filled hole
  <img width="806" height="447" alt="Zrzut ekranu 2025-12-24 041242" src="https://github.com/user-attachments/assets/db48d1d8-827b-4755-8e30-b808c5f6aa2f" />
 <img width="939" height="430" alt="Zrzut ekranu 2025-12-24 041236" src="https://github.com/user-attachments/assets/8f29df53-05ef-489e-88c9-741ea60c5a05" />
 
@@ -62,6 +65,8 @@ it 5.2h take me find good parts. make schemat.footprint and rest of thing
 
 <img width="917" height="542" alt="Zrzut ekranu 2026-01-23 211100" src="https://github.com/user-attachments/assets/73b5e59c-b74e-4d23-9e58-2e0945d75853" />
 <img width="421" height="454" alt="Zrzut ekranu 2026-01-23 214219" src="https://github.com/user-attachments/assets/38b855f9-4b97-47ea-acd6-7c348655b7b5" />
+
+total 24.5h
 
 
 
